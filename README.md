@@ -24,15 +24,16 @@
 | **Total**       | 1.00 | - | **98.5325** | **4** |
 
 # Course Outline
-Lab01 Introduction to IC Design & Combinational Circuit
-Lab02 Sequential Circuits
-Lab03 Testbench and Pattern
-Lab04 Advanced Sequential Circuit Design: Pipeline & Designware
-Lab05 Introduction to Macros and SRAM
-Lab06 Introduction to Synthesis Flow with Synopsys Design Compiler
-Lab07 Static Timing Analysis & Clock Domain Crossing
-Lab08 Low Power Design & Sequential Equivalency Checking with Cadence JasperGold
-Lab09 Introduction to SystemVerilog & Advanced Testbench
-Lab10 SystemVerilog Verification
-Lab11 Cell Based APR Design Flow
-Lab12 Power Analysis & Rail Analysis & Bonding Pads Insertion Flow
+Lab01 Introduction to IC Design & Combinational Circuit  
+Lab02 Sequential Circuits  
+Lab03 Testbench and Pattern  
+Lab04 Advanced Sequential Circuit Design: Pipeline & Designware  
+Lab05 Introduction to Macros and SRAM  
+Lab06 Introduction to Synthesis Flow with Synopsys Design Compiler  
+Lab07 Static Timing Analysis & Clock Domain Crossing  
+Lab08 Low Power Design & Sequential Equivalency Checking with Cadence JasperGold  
+Lab09 Introduction to SystemVerilog & Advanced Testbench  
+Lab10 SystemVerilog Verification  
+Lab11 Cell Based APR Design Flow  
+Lab12 Power Analysis & Rail Analysis & Bonding Pads Insertion Flow  
+Bonus Functional Formal Verification with Cadence JasperGold  
